@@ -73,15 +73,6 @@
 
 ### Software Developer to Product Owner
 
-**Ontario Public Service** - Enterprise Architecture Office, Children, Youth & Social Services I&IT Cluster
-*May 2025 - April 2026*
+**Ontario Public Service** - Enterprise Architecture Office · *May 2025 - April 2026*
 
-Built the **AI Intake Tool**: a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval. Started as a dev, finished as a product owner/dev.
-
-| Area | Work |
-| :--- | :--- |
-| **Platform** | Full-stack React + Flask REST APIs on Azure Cosmos DB, with AI Search, OpenAI, and Blob Storage integration. Submission wizards with AI-assisted field generation and validation logic to enforce structured data capture. |
-| **Infrastructure** | Auth and role-based access via Microsoft Entra ID (EasyAuth). Multi-environment deploys through Azure Container Apps, App Services, and DevOps CI/CD pipelines. Structured application logging for diagnostics. |
-| **Semantic search** | Similarity detection over submissions with Azure AI Search - surfaces duplicate solutions before they get built and pushes teams toward reuse. |
-| **Ownership** | Led an Agile team of 6 as Product Owner. Owned backlog priority, translated business needs into 50+ user stories, approved sprint deliverables against business value. |
-| **Beyond the tool** | Automated AI sandbox access requests with a SharePoint + Power Automate approval workflow, replacing manual tracking. Trained business teams on structured prompting and ran demos for audit analysis. |
+Built the **AI Intake Tool**, a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval (React · Flask · Azure Cosmos DB · AI Search · OpenAI · Entra ID). Started as a developer; finished as Product Owner/lead developer leading a team of 6, owning the backlog and translating business needs into 50+ user stories.
