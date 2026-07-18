@@ -1,5 +1,5 @@
-<div align="center"> 
-  
+<div align="center">
+
 # Brandon Chong
 
 **Computer Science @ Western (UWO)** · Backend & Distributed Systems · LLM Application Engineering
@@ -18,7 +18,7 @@
 
 **[Hookline](https://hookline.bandonc.com)** - Webhook delivery service on Cloudflare Workers. At-least-once with an explicit dead-letter path; the scheduler is built in-house on Durable Object alarms rather than a managed queue.
 
-**[CourseCal](https://coursecal.bandonc.com)** - Syllabi → calendar. The parser is a standalone library with an eval harness, a regex baseline for lift, and honest accuracy numbers.
+**[CourseCal](https://coursecal.bandonc.com)** - Syllabi to calendar. The parser is a standalone library with an eval harness, a regex baseline for lift, and honest accuracy numbers.
 
 **[TrackWise](https://chromewebstore.google.com/detail/trackwise/ljmiflnipemagmaihpfnmpmbdbjehenm)** - Job tracker, shipped on the Chrome Web Store. Embeddings cluster your applications so response-rate patterns surface without any manual tagging.
 
@@ -39,19 +39,29 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 **Data & Cloud**
 
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Testing & Ops**
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![fast-check](https://img.shields.io/badge/fast--check-3178C6?style=for-the-badge&logo=jest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white)
 
 ---
 
 ## Depth
 
-| | |
+| Area | What |
 | :--- | :--- |
 | **LLM application engineering** | Structured tool use · versioned prompts · eval harnesses with regex baselines · fallback chains |
 | **Distributed delivery** | At-least-once semantics · HMAC signing · circuit breakers · decorrelated-jitter backoff · per-tenant fair scheduling |
@@ -62,17 +72,24 @@
 
 ## Experience
 
-### Software Developer → Product Owner
+### Software Developer to Product Owner
 
-**Ontario Public Service** — Enterprise Architecture Office, Children, Youth & Social Services I&IT Cluster  
-*May 2025 – April 2026*
+**Ontario Public Service** - Enterprise Architecture Office, Children, Youth & Social Services I&IT Cluster
+*May 2025 - April 2026*
 
-Built the **AI Intake Tool**: a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval.
+Built the **AI Intake Tool**: a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval. Started as sole developer, finished owning the product.
 
-| | |
+| Area | Work |
 | :--- | :--- |
 | **Platform** | Full-stack React + Flask REST APIs on Azure Cosmos DB, with AI Search, OpenAI, and Blob Storage integration. Submission wizards with AI-assisted field generation and validation logic to enforce structured data capture. |
 | **Infrastructure** | Auth and role-based access via Microsoft Entra ID (EasyAuth). Multi-environment deploys through Azure Container Apps, App Services, and DevOps CI/CD pipelines. Structured application logging for diagnostics. |
-| **Semantic search** | Similarity detection over submissions with Azure AI Search — surfaces duplicate solutions before they get built and pushes teams toward reuse. |
+| **Semantic search** | Similarity detection over submissions with Azure AI Search - surfaces duplicate solutions before they get built and pushes teams toward reuse. |
 | **Ownership** | Led an Agile team of 6 as Product Owner. Owned backlog priority, translated business needs into 50+ user stories, approved sprint deliverables against business value. |
 | **Beyond the tool** | Automated AI sandbox access requests with a SharePoint + Power Automate approval workflow, replacing manual tracking. Trained business teams on structured prompting and ran demos for audit analysis. |
+
+---
+
+## Education
+
+**BSc Computer Science** - University of Western Ontario · Sep 2022 - May 2027
+Dean's Honour List, 2024
