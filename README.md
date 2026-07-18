@@ -1,4 +1,3 @@
-<div align="center">
 # Brandon Chong
 
 **Computer Science @ Western (UWO)** · Backend & Distributed Systems · LLM Application Engineering
