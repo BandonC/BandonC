@@ -67,7 +67,7 @@
 **Ontario Public Service** — Enterprise Architecture Office, Children, Youth & Social Services I&IT Cluster  
 *May 2025 – April 2026*
 
-Built the **AI Intake Tool**: a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval. Started as sole developer, finished owning the product.
+Built the **AI Intake Tool**: a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval.
 
 | | |
 | :--- | :--- |
