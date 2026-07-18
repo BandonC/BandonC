@@ -76,10 +76,3 @@ Built the **AI Intake Tool**: a governance platform that moves ministry AI use c
 | **Semantic search** | Similarity detection over submissions with Azure AI Search — surfaces duplicate solutions before they get built and pushes teams toward reuse. |
 | **Ownership** | Led an Agile team of 6 as Product Owner. Owned backlog priority, translated business needs into 50+ user stories, approved sprint deliverables against business value. |
 | **Beyond the tool** | Automated AI sandbox access requests with a SharePoint + Power Automate approval workflow, replacing manual tracking. Trained business teams on structured prompting and ran demos for audit analysis. |
-
----
-
-## Education
-
-**BSc Computer Science** — University of Western Ontario · Sep 2022 – May 2027  
-Dean's Honour List, 2024
