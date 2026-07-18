@@ -4,8 +4,8 @@
 
 **Computer Science @ Western (UWO)** · Backend & Distributed Systems · LLM Application Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjchong/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonjchong@gmail.com)
 [![Hookline](https://img.shields.io/badge/Hookline-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://hookline.bandonc.com)
 [![CourseCal](https://img.shields.io/badge/CourseCal-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://coursecal.bandonc.com)
 [![TrackWise](https://img.shields.io/badge/TrackWise-34A853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/trackwise/ljmiflnipemagmaihpfnmpmbdbjehenm)
