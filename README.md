@@ -55,7 +55,6 @@
 ![fast-check](https://img.shields.io/badge/fast--check-3178C6?style=for-the-badge&logo=jest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white)
 
 ---
 
@@ -77,7 +76,7 @@
 **Ontario Public Service** - Enterprise Architecture Office, Children, Youth & Social Services I&IT Cluster
 *May 2025 - April 2026*
 
-Built the **AI Intake Tool**: a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval. Started as sole developer, finished owning the product.
+Built the **AI Intake Tool**: a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval. Started as a dev, finished as a product owner/dev.
 
 | Area | Work |
 | :--- | :--- |
@@ -86,10 +85,3 @@ Built the **AI Intake Tool**: a governance platform that moves ministry AI use c
 | **Semantic search** | Similarity detection over submissions with Azure AI Search - surfaces duplicate solutions before they get built and pushes teams toward reuse. |
 | **Ownership** | Led an Agile team of 6 as Product Owner. Owned backlog priority, translated business needs into 50+ user stories, approved sprint deliverables against business value. |
 | **Beyond the tool** | Automated AI sandbox access requests with a SharePoint + Power Automate approval workflow, replacing manual tracking. Trained business teams on structured prompting and ran demos for audit analysis. |
-
----
-
-## Education
-
-**BSc Computer Science** - University of Western Ontario · Sep 2022 - May 2027
-Dean's Honour List, 2024
