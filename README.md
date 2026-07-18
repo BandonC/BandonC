@@ -16,11 +16,11 @@
 
 ## Live
 
-**[Hookline](https://hookline.bandonc.com)** — Webhook delivery service on Cloudflare Workers. At-least-once with an explicit dead-letter path; the scheduler is built in-house on Durable Object alarms rather than a managed queue.
+**[Hookline](https://hookline.bandonc.com)** - Webhook delivery service on Cloudflare Workers. At-least-once with an explicit dead-letter path; the scheduler is built in-house on Durable Object alarms rather than a managed queue.
 
-**[CourseCal](https://coursecal.bandonc.com)** — Syllabi → calendar. The parser is a standalone library with an eval harness, a regex baseline for lift, and honest accuracy numbers.
+**[CourseCal](https://coursecal.bandonc.com)** - Syllabi → calendar. The parser is a standalone library with an eval harness, a regex baseline for lift, and honest accuracy numbers.
 
-**[TrackWise](https://chromewebstore.google.com/detail/trackwise/ljmiflnipemagmaihpfnmpmbdbjehenm)** — Job tracker, shipped on the Chrome Web Store. Embeddings cluster your applications so response-rate patterns surface without any manual tagging.
+**[TrackWise](https://chromewebstore.google.com/detail/trackwise/ljmiflnipemagmaihpfnmpmbdbjehenm)** - Job tracker, shipped on the Chrome Web Store. Embeddings cluster your applications so response-rate patterns surface without any manual tagging.
 
 ---
 
