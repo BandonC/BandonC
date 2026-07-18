@@ -2,9 +2,7 @@
 
 # Brandon Chong
 
-**Computer Science @ Western** · Backend & Distributed Systems · LLM Application Engineering
-
-*I'd rather build the primitive than configure one — and write down why.*
+**Computer Science @ Western (UWO)** · Backend & Distributed Systems · LLM Application Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
