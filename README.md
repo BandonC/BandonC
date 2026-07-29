@@ -74,4 +74,4 @@
 
 **Ontario Public Service** - Enterprise Architecture Office · *May 2025 - April 2026*
 
-Built the **AI Intake Tool**, a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval (React · Flask · Azure Cosmos DB · AI Search · OpenAI · Entra ID · Blob Storage). Started as a developer; finished as Product Owner/lead developer leading a team of 6, owning the backlog and translating business needs into technical deliverables.
+Built the **AI Intake Tool**, a governance platform that moves ministry AI use cases through a stage-based lifecycle of assessment, review, and approval (React · Flask · Azure Cosmos DB · AI Search · Azure OpenAI · Entra ID · Blob Storage). Started as a developer; finished as Product Owner/lead developer leading a team of 6, owning the backlog and translating business needs into technical deliverables.
