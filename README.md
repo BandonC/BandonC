@@ -6,10 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjchong/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonjchong@gmail.com)
-[![Gauntlet](https://img.shields.io/badge/Gauntlet-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://bandonc.github.io/Gauntlet/)
-[![Hookline](https://img.shields.io/badge/Hookline-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://hookline.bandonc.com)
-[![CourseCal](https://img.shields.io/badge/CourseCal-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://coursecal.bandonc.com)
-[![TrackWise](https://img.shields.io/badge/TrackWise-34A853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/trackwise/ljmiflnipemagmaihpfnmpmbdbjehenm)
 
 </div>
 
